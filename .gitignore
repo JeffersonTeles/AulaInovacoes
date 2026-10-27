@@ -25,7 +25,10 @@ dist-ssr
 
 # Python
 venv/
+.venv/
 __pycache__/
 *.pyc
 *.pt
 *.mp4
+*.rar
+*.zip
