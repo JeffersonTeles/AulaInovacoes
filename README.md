@@ -1,6 +1,13 @@
-# 👁️ Detecção de Objetos em Vídeo & Web (YOLOv8 + OpenCV + React / TensorFlow.js)
+# 👁️ Detecção de Objetos em Vídeo & Web (YOLOv8 + OpenCV + React 19 / TensorFlow.js)
 
-Repositório acadêmico com implementações para detecção e classificação de objetos em vídeo e navegadores, combinando um pipeline de Visão Computacional em Python (YOLOv8 + OpenCV + yt-dlp) e uma aplicação web interativa em React 19 com TypeScript, Vite e Material UI (MUI).
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00599C)](https://ultralytics.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
+[![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Vite-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+Repositório acadêmico com implementações completas para detecção e classificação de objetos em vídeo e navegadores, combinando um pipeline de Visão Computacional em Python (YOLOv8 + OpenCV + yt-dlp) e uma aplicação web interativa em React 19 com TypeScript, Vite e Material UI (MUI).
 
 ---
 
